@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 ########################################################
-# CS5783: Machine Learning #
-# Assignment 4 #
-# Problem 2: K-means clustering #
+# K-means clustering #
 # Sk. Mashfiqur Rahman (CWID: A20102717) #
 # collect data from: http://yann.lecun.com/exdb/mnist/#
 #######################################################
